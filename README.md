@@ -3,8 +3,8 @@ This project features two Excel dashboards created using the [Superstore dataset
 
 ## Excel Workbook Details
 The Excel file (`Superstore_ExcelDashboard.xlsx`) contains:
-- `Dashboard1_Overview`: Main dashboard analyzing sales and profitability
-- `Dashboard2_Customer`: Dashboard focused on customer behavior and segmentation
+- `Dashboard1`: Main dashboard analyzing sales and profitability
+- `Dashboard2`: Dashboard focused on customer behavior and segmentation
 - `Optimized`: Cleaned dataset with calculated columns (e.g., profit margin, customer tier)
 - `Customer_Dataset`: Aggregated customer data for segmentation and analysis
 - `Issues_Log`: Notes on data cleaning issues and resolutions
