@@ -1,13 +1,14 @@
 # Superstore Data Analysis
 This project features two Excel dashboards created using the [Superstore dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data). It showcases real-world data analysis, customer segmentation, business KPI evaluation, and visual storytelling — all within Excel.
 
-## 📁 Excel Workbook Details
-If you'd like to explore the dashboards inside Excel, the original workbook contains the following sheets:
-- **Dashboard_Overview**: Interactive dashboard focused on sales, profit, discount, and product category trends
-- **Dashboard_Customers**: Customer segmentation dashboard with duration, discount, and profit by tier
-- **PivotTables**: Source pivot tables feeding each dashboard
-- **CleanedData**: Cleaned version of the Superstore dataset with added calculated columns (e.g., profit margin, discount category, customer tier)
-- **Issues_Log** *(optional)*: Tracks steps taken during data cleaning and analysis
+## Excel Workbook Details
+The Excel file (`Superstore_ExcelDashboard.xlsx`) contains:
+- `Dashboard1_Overview`: Main dashboard analyzing sales and profitability
+- `Dashboard2_Customer`: Dashboard focused on customer behavior and segmentation
+- `Optimized`: Cleaned dataset with calculated columns (e.g., profit margin, customer tier)
+- `Customer_Dataset`: Aggregated customer data for segmentation and analysis
+- `Issues_Log`: Notes on data cleaning issues and resolutions
+
 
 ## Dashboards
 ### 1. [Sales & Profit Overview Dashboard](./Superstore_OverviewDashboard.pdf)
