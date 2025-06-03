@@ -31,5 +31,3 @@ The Excel file (`Superstore_ExcelDashboard.xlsx`) contains:
 
 ## Tools Used
 - Microsoft Excel
-- PDF (for dashboard export)
-- GitHub (for portfolio hosting)
